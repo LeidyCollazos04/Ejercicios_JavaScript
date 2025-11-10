@@ -1,0 +1,74 @@
+header{
+    background-color: rgb(200, 228, 255);
+    justify-items: center;
+    padding: 10px;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+h1{
+    color:dodgerblue;
+}
+.container-fluid{
+    padding: 0%;
+    background-color: rgb(200, 228, 255);
+}
+.navbar{
+    background-color: rgb(200, 228, 255);
+    padding: 0%;
+    width: 100%;
+    align-content: space-around;
+    position: fixed;
+    top: 76px;
+}
+.navbar-nav{
+    background-color: rgb(200, 228, 255);
+    width: 100%;
+    justify-content: center;
+}
+main{
+    background-color: rgb(233, 244, 255);
+    align-content: center;
+    justify-items: center;
+    text-align: center;
+    height: 70vh;
+    font-size: 25px;
+    margin-top: 115px;
+    display: flex;
+}
+section{
+    background-color: rgb(233, 244, 255);
+    width: 60%;
+    align-content: center;
+}
+p{
+    border: 2px solid rgb(173, 214, 255);
+    border-radius: 10px;
+    padding: 5px;
+}
+aside{
+    background-image:url('/assets/img/variables_numericas2.png');
+    background-size:100% 100%;
+    width: 40%;
+    border-radius: 30px;
+}
+footer{
+    background-color: rgb(200, 228, 255);
+    justify-items: center;
+    padding: 15px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 80%;
+    padding: 0%;
+}
+.logo-enlace{
+    width: 20px;
+    height: 18px;
+}
+a{
+    text-decoration: none;
+}
